@@ -39,5 +39,5 @@ This project analyzes retail transaction data to uncover **sales trends**, ident
 
   📧 **Contact:** [danieljohnsonk101@gmail.com](mailto:danieljohnsonk101@gmail.com)
   
-  🔗 **Linkedin:**[www.linkedin.com/in/johnson-daniel-51421b203](https:// www.linkedin.com/in/johnson-daniel-51421b203)
+  🔗 **Linkedin:** www.linkedin.com/in/johnson-daniel-51421b203
   
