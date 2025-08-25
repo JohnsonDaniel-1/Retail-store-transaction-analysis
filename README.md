@@ -1,4 +1,4 @@
-# 🏬 Retail Store Transaction Analysis
+ www.linkedin.com/in/johnson-daniel-51421b203# 🏬 Retail Store Transaction Analysis
 
 ## 📖 Project Overview
 This project analyzes retail transaction data to uncover **sales trends**, identify **top performing staff**, optimize **payment systems**, and enhance *financial transparency through an Excel dashboard.
@@ -38,5 +38,5 @@ This project analyzes retail transaction data to uncover **sales trends**, ident
 - Plan early holiday campaigns for Q4
 
   📧 **Contact:** [danieljohnsonk101@gmail.com](mailto:danieljohnsonk101@gmail.com)
-  **Linkedin:** [
+  **Linkedin:** [ www.linkedin.com/in/johnson-daniel-51421b203](https:// www.linkedin.com/in/johnson-daniel-51421b203)
   
